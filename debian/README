@@ -1,0 +1,8 @@
+Paquete libro-vivo-hechizos
+----------------------------------------------------------
+
+Este paquete contiene el manual integral de Huayra Linux en PDF,
+ el mismo se copia a la carpeta /usr/share/doc/huayra y se crea un
+ acceso directo en el Escritorio.
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 17 apr 2023 15:48:48 +0100

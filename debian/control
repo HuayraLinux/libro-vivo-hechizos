@@ -1,0 +1,19 @@
+Source: libro-vivo-hechizos
+Section: misc
+Priority: extra
+Maintainer: Diego Accorinti <diegoacco@gmail.com>
+Build-Depends: debhelper (>= 9.0.0),
+Standards-Version: 0.6.0
+Homepage: https://github.com/HuayraLinux/libro-vivo-hechizos
+Vcs-Git: https://github.com/HuayraLinux/libro-vivo-hechizos.git
+Vcs-Browser: https://github.com/HuayraLinux/libro-vivo-hechizos
+
+Package: huayra-libro-vivo-hechizos
+Architecture: amd64
+Depends: ${misc:Depends}, 
+Description: Libro vivo de Hechizos de Huayra Linux
+ El libro vivo de hechizos de Huayra es un manual integral,
+  que incluye desde los fundamentos filosóficos y el marco
+  político del proyecto hasta indicaciones técnicas de cómo
+  instalar el sistema operativo, cómo agregar aplicaciones
+  y cómo mantenerlo actualizado.
