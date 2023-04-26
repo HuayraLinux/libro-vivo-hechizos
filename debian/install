@@ -1,1 +1,4 @@
-/usr/share/doc/huayra /pdf/estable
+pdf/estable/Libro-de-hechizos-de-Huayra.pdf /usr/share/huayra-docs
+desktop/huayra-libro-vivo-hechizos.desktop  /usr/share/applications/
+desktop/x-huayra-libro-vivo-hechizos.desktop  /etc/xdg/autostart/
+media/libro-vivo-hechizos-huayra.svg  /usr/share/icons/hicolor/scalable/apps

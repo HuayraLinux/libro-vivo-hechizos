@@ -1,0 +1,12 @@
+
+[Desktop Entry]
+Name=Libro Vivo de Hechizos de Huayra Linux
+GenericName=Libro vivo de Hechizos
+Comment=Manual integral de Huayra Linux
+Keywords=huayra;
+Categories=Huayra;
+Exec=xdg-open /usr/share/huayra-docs/Libro-de-hechizos-de-Huayra.pdf
+Icon=libro-vivo-hechizos-huayra
+StartupNotify=true
+Terminal=false
+Type=Application

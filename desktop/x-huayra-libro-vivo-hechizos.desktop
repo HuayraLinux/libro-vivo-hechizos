@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Crear icono del Libro vivo de Hechizos de Huayra Linux
+Comment=Crear icono del Libro vivo de Hechizos de Huayra Linux
+Exec=xdg-desktop-icon install --novendor /usr/share/applications/huayra-libro-vivo-hechizos.desktop
+Icon=libro-vivo-hechizos
+Terminal=false
+Type=Application
+Categories=Settings;System;
