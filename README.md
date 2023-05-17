@@ -10,19 +10,16 @@ Parte de esa magia consta en que este manual se actualizará automáticamente cu
 
 ![](media/tapa.png)
 
-#nuevo paquete
+# Pasos para nueva revisión
 
-- clonar el repo
-- reemplazar el pdf en pdf/estable (modificar número de revisión).
+- incrementar el número de rev en el PDF.
+- git push del nuevo PDF
 
 $ dch   
-
-- incrementar versión del paquete)
+- incrementar versión del paquete
 
 $ pdebuild
 
-- subir nuevo release a github.
+- subir nuevo release a github (agregar changelog)
 
-- enviar el paquete al repo
-
-$ dput
+- enviar el paquete al repo (dput)
