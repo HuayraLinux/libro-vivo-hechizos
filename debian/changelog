@@ -1,3 +1,15 @@
+libro-vivo-hechizos (0.6.0+nmu3) unstable; urgency=medium
+
+  * fix numero de version
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Wed, 24 May 2023 11:45:30 -0300
+
+libro-vivo-hechizos (0.6.0+nmu2) unstable; urgency=medium
+
+  * update rev2
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Wed, 17 May 2023 13:34:45 -0300
+
 libro-vivo-hechizos (0.6.0+nmu1) unstable; urgency=medium
 
   * Actualizacion
