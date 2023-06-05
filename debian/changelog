@@ -1,3 +1,9 @@
+huayra-libro-vivo-hechizos (0.6.0+nmu6) unstable; urgency=medium
+
+  * fix tapa
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 05 Jun 2023 10:42:46 -0300
+
 huayra-libro-vivo-hechizos (0.6.0+nmu5) unstable; urgency=medium
 
   * Arreglo de nombre del source.
