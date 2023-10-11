@@ -21,5 +21,5 @@ $ dch
 $ pdebuild
 
 - subir nuevo release a github (agregar changelog)
-
-- enviar el paquete al repo (dput)
+- firmar paquete (debsign)
+- enviar el paquete al repo (dput) vía VPN
