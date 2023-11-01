@@ -1,3 +1,9 @@
+huayra-libro-vivo-hechizos (0.6.0+nmu7) UNRELEASED; urgency=medium
+
+  * Se agregan dos nuevos capítulos.
+
+ -- Diego Accorinti <diegoacco@gmail.com>  Mon, 30 Oct 2023 14:28:45 -0300
+
 huayra-libro-vivo-hechizos (0.6.0+nmu6) unstable; urgency=medium
 
   * fix tapa
